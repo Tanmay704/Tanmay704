@@ -29,7 +29,8 @@
 - **Azure**: DevOps  
 
 **Developer Tools & Others**  
-- Git, Docker, VS Code, Eclipse, Spring Tool Suite (STS), Android Studio  
+- Git, Docker, VS Code, Eclipse, Spring Tool Suite (STS), Android Studio
+- AWS Q with MCP Servers
 - Postman, JMeter  
 - Microsoft PowerApps, PowerAutomate  
 
