@@ -11,7 +11,8 @@
 - 🌐 Skilled across **backend (Java, Spring Boot, FastAPI)**, **frontend (React, Material UI)**, and **cloud-native development (AWS, Azure DevOps)**.  
 - 🤖 Passionate about **automation, AI-driven solutions, and scalable architectures**.  
 - 🏆 Hackathon winner – built **AWS multi-agent orchestration** using Agentic AI.  
-- 🎯 Goal: **Solve bigger real-world problems by designing and developing scalable, reliable solutions that make an impact.**  
+- 🎯 Goal: **Solve bigger real-world problems by designing and developing scalable, reliable solutions that make an impact.**
+- 📚 Eager to **learn anything that matters** to solve the problem effectively.   
 
 ---
 
