@@ -7,46 +7,54 @@
 
 ## 🚀 About Me  
 
-- 🔭 I enjoy building **scalable backend systems** and modern **frontend UIs**.  
-- 🌐 Skilled in **Java | Spring Boot | FastAPI | React | AWS | Azure DevOps**.  
-- 🤖 Passionate about **AI, automation, and cloud-native architectures**.  
-- 📚 Lifelong learner – always exploring **new frameworks and design patterns**.  
-- 🎯 Goal: To build **developer-first solutions** that scale globally.  
+- 💼 Currently working as a **Full-Stack Developer** with experience in **enterprise-scale applications**.  
+- 🌐 Skilled across **backend (Java, Spring Boot, FastAPI)**, **frontend (React, Material UI)**, and **cloud-native development (AWS, Azure DevOps)**.  
+- 🤖 Passionate about **automation, AI-driven solutions, and scalable architectures**.  
+- 🏆 Hackathon winner – built **AWS multi-agent orchestration** using Agentic AI.  
+- 🎯 Goal: Build **reliable, scalable, developer-first solutions**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
 **Languages & Databases**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+- Java, Python, C/C++, SQL, MongoDB  
 
 **Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)  
+- Spring MVC, Spring Boot, Spring JPA, FastAPI, React, Material UI, Thymeleaf  
 
 **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+- **AWS**: Lambda, ECS Fargate, API Gateway, S3, CloudFront, CodeCommit, CodePipeline, CloudFormation, Bedrock, Textract, DocumentDB, ALB  
+- **Azure**: DevOps  
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)  
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)  
+**Developer Tools & Others**  
+- Git, Docker, VS Code, Eclipse, Spring Tool Suite (STS), Android Studio  
+- Postman, JMeter  
+- Microsoft PowerApps, PowerAutomate  
+
+---
+
+## 💼 Professional Experience  
+
+### **Citco Group – Junior Developer (Jun 2023 – Present)**  
+- Built a **Seat Booking Application** used by **10,000+ employees**, replacing a licensed product.  
+- Worked on **role-based access**, **React frontend with Material UI**, and **SSO with OpenID**.  
+- Developed backend services on **AWS Lambda + API Gateway**, later migrated to **ECS Fargate with ALB** for scalability.  
+- Automated provisioning with **CloudFormation** and CI/CD via **CodePipeline**.  
+- Enhanced **FastAPI REST API performance**, optimized **MongoDB aggregation queries**, and implemented **connection pooling**.  
+- Automated **email categorization** using **AWS Bedrock LLM + Microsoft Graph API**.  
+- Built a cost-effective **PowerApps payroll solution** integrated with **SharePoint**, automating **5,000+ HR requests/month**.  
+
+### **Persistent Systems – Software Engineer (Jul 2022 – Jun 2023)**  
+- Contributed as a **Java Backend Developer** on an **Employee Data Management System** using **Spring Boot + MySQL**.  
+- Built **REST APIs, DAO layer, and business logic** with **JPA**.  
+- Worked with **Docker, Jenkins, and Azure** for deployments.  
+- Participated in a hackathon solving **patient multimodal data management** problems.  
+
+### **Persistent Systems – Intern (Feb 2022 – Jul 2022)**  
+- Gained hands-on experience with **Java, SQL, Spring, Spring Boot**.  
+- Built mini-projects applying **OOP, databases, and REST APIs**.  
+- Certified in **Microsoft AZ-900 (Azure Fundamentals)** and **Java Development**.  
 
 ---
 
